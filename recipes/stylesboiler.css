@@ -1,0 +1,23 @@
+* {
+    font-size: 25px;
+}
+
+h1 {
+    font-size: 35px;
+    text-align: center;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+div {
+    text-align: center;
+}
+
+ #h2-p{
+    text-indent: 20px;
+}
+
